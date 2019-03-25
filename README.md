@@ -24,4 +24,4 @@ Uses Node and MySQL to query and route data in app. Uses Handlebars to generate 
 
 ### Demo
 
-See deployed Heroku version (link above)
+See deployed Heroku here: https://quiet-forest-55892.herokuapp.com/

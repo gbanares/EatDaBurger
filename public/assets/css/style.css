@@ -1,7 +1,11 @@
+body {
+  background-image: url("../img/burgers.png")
+}
+
 li {
   padding: 5px;
   margin: 5px;
-  background: #faebd7;
+  background: #cfcfcf;
 }
 
 .label {
@@ -11,9 +15,14 @@ li {
 .create-update-form {
   padding: 5px;
   margin: 5px;
-  background: aqua;
+  background: rgb(150, 150, 150);
 }
 
 .form-group {
   margin-bottom: 5px;
+}
+
+footer {
+  text-align: center;
+  margin: 20px;
 }

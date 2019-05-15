@@ -1,4 +1,4 @@
-# Eat-Da-Burger
+# Eat-Da-Burger "Eat The Burger"
 
 A restaurant app that allows users to input names of burgers to eat or save for later.
 

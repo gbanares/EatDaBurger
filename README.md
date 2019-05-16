@@ -22,6 +22,11 @@ Uses Node and MySQL to query and route data in app. Uses Handlebars to generate 
 * Express
 * dotenv
 
+### Screenshot
+
+![Burger Image](/other/project_burger_img.png)
+Format: ![Screenshot of Burger App](/other/project_burger_img.png)
+
 ### Demo
 
 See deployed Heroku here: https://quiet-forest-55892.herokuapp.com/

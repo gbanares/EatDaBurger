@@ -1,4 +1,4 @@
-# Eat-Da-Burger
+# Eat-Da-Burger "Eat The Burger"
 
 A restaurant app that allows users to input names of burgers to eat or save for later.
 
@@ -20,7 +20,7 @@ Uses Node and MySQL to query and route data in app. Uses Handlebars to generate 
 * NodeJS
 * Express
 * Express
-* NPM dotenv
+* dotenv
 
 ### Demo
 

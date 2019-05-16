@@ -20,7 +20,7 @@ Uses Node and MySQL to query and route data in app. Uses Handlebars to generate 
 * NodeJS
 * Express
 * Express
-* NPM dotenv
+* dotenv
 
 ### Demo
 

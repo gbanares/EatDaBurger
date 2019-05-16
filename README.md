@@ -24,8 +24,7 @@ Uses Node and MySQL to query and route data in app. Uses Handlebars to generate 
 
 ### Screenshot
 
-![Burger Image](/other/project_burger_img.png)
-Format: ![Screenshot of Burger App](/other/project_burger_img.png)
+![Burger App Screenshot](/other/project_burger_img.png)
 
 ### Demo
 
